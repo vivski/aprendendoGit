@@ -1,3 +1,6 @@
 // the books on the table
 
-kkkk
+let a = 2
+let b = 2
+
+console.log(a,b)

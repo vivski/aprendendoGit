@@ -1,5 +1,3 @@
-let x = ester;
-let y = vivian;
-let z = valter;
-
-console.log(x + y + z + "Superpoderosas");
+let l = 'estou'
+let m = 'entediada'
+console.log(l + m);

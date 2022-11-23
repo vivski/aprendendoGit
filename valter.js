@@ -1,4 +1,6 @@
-let x = 'Estou '
-let y = 'Cansado'
 
-console.log(x + y)
+x = 'ester'
+y = ' vivian '
+z = ' valter'
+
+console.log(x + y + z)

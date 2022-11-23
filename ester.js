@@ -1,5 +1,4 @@
-let x = ester;
-let y = vivian;
-let z = valter;
+let y = estou;
+let z = cansada;
 
 console.log(y + z);

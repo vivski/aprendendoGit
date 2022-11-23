@@ -1,6 +1,8 @@
+// Soma
 
-x = 'ester'
-y = ' vivian '
-z = ' valter'
+var x = 3 
+var y = 6
 
-console.log(x + y + z)
+var resultado = 'Divisão: ' + (x + y)
+
+console.log(resultado)
